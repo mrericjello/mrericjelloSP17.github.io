@@ -1,0 +1,13 @@
+div {
+    width: 200px;
+    height: 200px;
+    border: 20px groove orange;
+    background color: red;
+    border-radius: 20%;
+    background-image: url("puppy.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 50px auto;
+
+}
