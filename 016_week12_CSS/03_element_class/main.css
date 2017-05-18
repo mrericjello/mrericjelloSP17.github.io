@@ -1,0 +1,9 @@
+p{
+    font-style: italic;
+    background-color: aliceblue;
+}
+
+.oblique{
+    font-style:oblique;
+    font: bold;
+}

@@ -1,0 +1,8 @@
+p {
+    font-style: oblique;
+    background-color: chartreuse;
+}
+
+[target] {
+    border-style: 5px solid blue;
+}
