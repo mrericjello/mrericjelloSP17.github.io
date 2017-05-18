@@ -1,0 +1,38 @@
+html {
+    font-size: 38px;
+}
+
+body {
+    background-color: dodgerblue;
+    margin: 0 auto;
+}
+
+div{
+    border: 5px solid black;
+    width: 60%;
+    background-color: limegreen;
+    padding: 10px;
+    font-size: 25px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 100%;
+    border: 10px ridge gold;
+    height: 400px;
+    width: 650px;
+}
+
+h1 {
+    font-size: 32px;
+    margin: 20px 0 10px 0;
+}
+
+#primary {
+    color: blue;
+}
+
+#secondary {
+    color: red;
+}
