@@ -1,0 +1,56 @@
+nav {
+    background-color: black;
+    color: white;
+    border: 2px solid blue;
+
+}
+
+ul{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+a:link{
+    text-decoration: none;
+    color: white;
+}
+a:visited{
+    color: aqua;
+}
+
+h1{
+    font-size: 100px;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+section{
+    background-color: chartreuse;
+    border: 2px dashed coral;
+    align-items: center;
+    padding: 10px;
+    display: flex;
+}
+
+main{
+    flex-direction: column;
+}
+
+section>h1{
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    align-items: center;
+}
+
+
+img{
+    margin: 10px;
+    padding: 0 42%;
+}
+
+aside{
+    background-color: deepskyblue;
+    flex-direction: column;
+    border-radius: 10%;
+}
