@@ -1,0 +1,8 @@
+.container, img{
+    border: 2px solid blue;
+    margin: 20px;
+}
+
+#right{
+    float: right;
+}

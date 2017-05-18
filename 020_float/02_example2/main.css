@@ -1,0 +1,14 @@
+.container, img{
+    border: 2px solid blue;
+    margin: 20px;
+    width: 150px;
+    height: 150px;
+}
+
+#right{
+    float: right;
+}
+
+p.clear{
+    clear:both;
+}
