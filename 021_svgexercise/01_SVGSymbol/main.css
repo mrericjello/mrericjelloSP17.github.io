@@ -1,0 +1,47 @@
+svg#heart{
+    height: 250px;
+    width: 250px;
+}
+
+#heart-path{
+    fill: red;
+    stroke: pink;
+    stroke-width: 1px;
+}
+
+#heart-path:hover{
+    fill: pink;
+}
+
+svg#battery{
+    height: 250px;
+    width: 250px;
+}
+
+#battery-path{
+    fill: blue;
+    stroke: aqua;
+    stroke-width: 1px;
+}
+#battery-path:hover{
+    fill: blue;
+    stroke: aqua;
+    stroke-width: 1px;
+}
+
+
+svg#tool{
+    height: 250px;
+    width: 250px;
+}
+
+#tool-path{
+    fill: green;
+    stroke: lime;
+    stroke-width: 1px;
+}
+#tool-path:hover{
+    fill: green;
+    stroke: lime;
+    stroke-width: 1px;
+}
